@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias Woldeselassie</h1>
-<h3 align="center">Database Developer | Software developer | BI Developer | Data Engineer | Frontend developer | Node.js | React developer | Python developer</h3>
+<h3 align="center">Database Developer | Software developer | BI Developer | Data Engineer | ETL developer | Frontend developer | Node.js | Python developer(django)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melijah5&label=Profile%20views&color=0e75b6&style=flat" alt="melijah5" /> </p>
 
