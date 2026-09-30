@@ -9,7 +9,39 @@
 
 - 📫 How to reach me **www.linkedin.com/in/w-elias**
 
-- Know about my experiences :-- As a seasoned Senior SQL Developer at PayPal, I am committed to optimizing our global payment platform with innovative database solutions. Leveraging my expertise in ANSI SQL and C#, I integrate cutting-edge analytics tools to enhance business collaboration and efficiency. Whether managing cloud data on AWS or adhering to agile best practices, I prioritize system performance and reliability. With a background in computer and information sciences, I specialize in robust ETL procedures and data integration, ensuring seamless operations. Through meticulous database tuning and insightful data modeling, I uphold high standards of performance and data integrity. My proactive approach to code reviews, technical documentation, and issue troubleshooting contributes to the scalability and sustainability of our platforms. Collaborating effectively, I leverage interpersonal skills and scripting languages like PowerShell and Python to drive transformative RDBMS designs, ultimately delivering excellence in every aspect of my work.
+-I have strong foundation in designing, developing, and maintaining robust and scalable web applications. Experienced in Java, Spring Boot, JavaScript, React.js, Node.js, Python, and Django, with a strong understanding of both front-end and back-end development. Skilled in developing RESTful APIs, implementing database solutions, and working with MySQL, Microsoft SQL Server (MSSQL), SQLite, and MongoDB.Experienced with modern development practices, design patterns, responsive UI development, and software development tools including Git, Visual Studio Code, MySQL Workbench, and TFS. Knowledgeable in building user-friendly web applications using React.js, Bootstrap, and Material UI, with a focus on clean, maintainable, and efficient code.
+
+
+
+Technical Skills
+
+
+
+Programming Languages:- Java, JavaScript (ES6), Python, SQL, HTML5, CSS3
+
+
+
+Front-End Development:- React.js, Redux, jQuery, AJAX, Bootstrap, Material UI, HTML5, CSS3
+
+
+
+Back-End Development:- Java, Spring Boot, Node.js, Express.js, Python, Django, Flask
+
+
+
+APIs and Web Technologies:- RESTful APIs, AJAX, JSON, Web Application Development
+
+
+
+Databases:- Microsoft SQL Server (MSSQL), MySQL, SQLite, MongoDB
+
+
+
+Development Tools- :Git, Visual Studio Code, MySQL Workbench, TFS
+
+
+
+Additional Knowledge:- Object-Oriented Programming (OOP), Design Patterns, Database Management, Full-Stack Development, Responsive Web Design
 
 <h3 align="left">Please feel free to reach out and connect with me: ✵✵✵✵ </h3>
 <p align="left">
