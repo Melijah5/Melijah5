@@ -5,7 +5,7 @@ Software Developer • Full-Stack Developer • Database Developer • Data Engi
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/elias-wold">
+  <a href="https://www.linkedin.com/in/w-elias">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=melijah5&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
@@ -29,7 +29,7 @@ I'm also interested in **data engineering, ETL development, business intelligenc
 
 🚀 Personal Project: **Real-Time Chat Room / Live Messaging Application**
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/elias-wold)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/w-elias)
 
 ---
 
@@ -172,9 +172,9 @@ Projects focused on:
 
 ## 📈 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melijah5&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melijah5&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
@@ -185,7 +185,7 @@ Projects focused on:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/elias-wold">
+  <a href="https://www.linkedin.com/in/w-elias">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
