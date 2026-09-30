@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **chat-room-live-messaging! (personal)**
 
-- 📫 How to reach me **eliaswoldeselassie98@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/w-elias**
 
 - Know about my experiences :-- As a seasoned Senior SQL Developer at PayPal, I am committed to optimizing our global payment platform with innovative database solutions. Leveraging my expertise in ANSI SQL and C#, I integrate cutting-edge analytics tools to enhance business collaboration and efficiency. Whether managing cloud data on AWS or adhering to agile best practices, I prioritize system performance and reliability. With a background in computer and information sciences, I specialize in robust ETL procedures and data integration, ensuring seamless operations. Through meticulous database tuning and insightful data modeling, I uphold high standards of performance and data integrity. My proactive approach to code reviews, technical documentation, and issue troubleshooting contributes to the scalability and sustainability of our platforms. Collaborating effectively, I leverage interpersonal skills and scripting languages like PowerShell and Python to drive transformative RDBMS designs, ultimately delivering excellence in every aspect of my work.
 
