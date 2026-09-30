@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melijah5&label=Profile%20views&color=0e75b6&style=flat" alt="melijah5" /> </p>
 
-- 🔭 I’m currently working on **Financial project**
-
 - 🌱 I’m currently learning **Snowflake Data warehouse**
 
 - 🤝 I’m looking for help with **chat-room-live-messaging! (personal)**
